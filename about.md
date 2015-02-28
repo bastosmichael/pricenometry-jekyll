@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: What we do?
 ---
 
+Pricels.com (pronounced Price-Less) is attempting to turn the world of smart price tracking on it’s head.
+
+Our <a href="http://developers.pricels.com" target="_blank">Application Program Interface (API)</a> is one of the fastest of it's kind in the market intelligence industry with <a href="http://en.wikipedia.org/wiki/Fuzzy_matching_%28computer-assisted_translation%29" target="_blank">fuzzy matching</a> and <a href="http://en.wikipedia.org/wiki/Incremental_search" target="_blank">incremental product search</a> as well as <a href="http://en.wikipedia.org/wiki/Real-time_data" target="_blank">real time availability and pricing data</a> from multiple sites and sources.
+
+### What Are We Building?
+We are creating a <a href="http://en.wikipedia.org/wiki/Platform_as_a_service" target="_blank">price tracking platform</a> to change and disrupt the billion dollar product research industry for both enterprise and small companies to either use our tools or build their own on top of our <a href="http://developers.pricels.com" target="_blank">API</a>.
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Our Dashboard will be a fully automated and accurate pricing marketplace where researchers can follow their very own products or categories, their competitor’s products and receive daily updates, research, insight, pricing, promotions and ad trends in real time for any business in the world in potentially any market.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+#### Daily Data Collection
+We provide the valuable real time pricing data you need from the web. We get it to you daily in a form you can use.
 
-There are currently two themes built on Poole:
+#### Structured Data Feeds
+We get you a feed of JSON and XML data you can access via our <a href="http://developers.pricels.com" target="_blank">API</a>, our Dashboard will introduce CSV and Exell exports.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+#### Data Science Insights
+We also help you maximize learning from the data we are providing you. Pricels is always working on new forms of pricing analytics and understanding.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Whether you’re a product analyst trying to figure out how to best price your products, a store owner looking at your competitors to price competitively or simply a consumer wanting to know any price changes on your favorite product, Pricels.com will change the way you research.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Where are we going?
+As we role out our Dashboard and more data sources, we will eventualy be able to track the pricing and availabity across thousands of web sites but our system is scalable enough to eventually track everything on the internet with a price tag.
