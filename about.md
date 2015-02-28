@@ -11,7 +11,7 @@ Our <a href="http://developers.pricels.com" target="_blank">Application Program 
 We are creating a <a href="http://en.wikipedia.org/wiki/Platform_as_a_service" target="_blank">price tracking platform</a> to change and disrupt the billion dollar product research industry for both enterprise and small companies to either use our tools or build their own on top of our <a href="http://developers.pricels.com" target="_blank">API</a>.
 
 <p class="message">
-Our Dashboard will be a fully automated and accurate pricing marketplace where researchers can follow their very own products or categories, their competitor’s products and receive daily updates, research, insight, pricing, promotions and ad trends in real time for any business in the world in potentially any market.
+Our up and coming Ecommerce Dashboard will be a fully automated and accurate pricing marketplace where researchers can follow their very own products or categories, their competitor’s products and receive daily updates, research, insight, pricing, promotions and ad trends in real time for any business in the world in potentially any market.
 </p>
 
 #### Daily Data Collection
