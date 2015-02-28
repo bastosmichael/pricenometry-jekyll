@@ -23,7 +23,9 @@ We get you a feed of JSON and XML data you can access via our <a href="http://de
 #### Data Science Insights
 We also help you maximize learning from the data we are providing you. Pricels is always working on new forms of pricing analytics and understanding.
 
-Whether you’re a product analyst trying to figure out how to best price your products, a store owner looking at your competitors to price competitively or simply a consumer wanting to know any price changes on your favorite product, Pricels.com will change the way you research.
-
 ### Where are we going?
 As we role out our Dashboard and more data sources, we will eventualy be able to track the pricing and availabity across thousands of web sites but our system is scalable enough to eventually track everything on the internet with a price tag.
+
+----------
+
+So whether you’re a product analyst trying to figure out how to best price your products, a store owner looking at your competitors to price competitively or simply a consumer wanting to know any price changes on your favorite product, Pricels.com will change the way you research.
