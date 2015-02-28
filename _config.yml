@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Pricels
 tagline:          'A Jekyll theme'
 description:      'Follow. Analyze. Report. Our goal is to track anything with a Price Tag. Easy to Use. Data updated daily. 15 Day Free Silver Membership Trial Available. Follow us on Twitter <a href="https://twitter.com/PricelsCom" target="_blank">@PricelsCom</a>.'
-url:              http://pricels.github.io/about
+url:              http://about.pricels.com
 baseurl:          /
 
 author:
