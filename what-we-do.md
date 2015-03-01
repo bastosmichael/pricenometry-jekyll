@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What we do?
+title: What We Do?
 ---
 
 Pricels.com (pronounced Price-Less) is turning the world of smart price data tracking on it’s head.
@@ -28,6 +28,6 @@ We also teach you to analyze the data you are given in a clean and intuitve way.
 ### Where are we going?
 Pricels is always working on new forms of pricing analytics and understanding.
 
-As we role out our Dashboard and more data sources, we will eventually be able to track the pricing and availabity across thousands of web sites. Our system is scalable enough to track everything on the internet with a price tag.
+As we roll out our Dashboard and more data sources, we will eventually be able to track the pricing and availabity across thousands of web sites. Our system is scalable enough to track everything on the internet with a price tag.
 
 So whether you’re an analyst trying to figure out how to best price your products, a store owner looking at your competitors or simply a consumer wanting to know any price changes on your favorite products, Pricels.com will change the way you research.
