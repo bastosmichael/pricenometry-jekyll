@@ -48,3 +48,5 @@ We spent a lot of time in our hotel room coding up the alpha version of our Dash
 
 
 <img src="/public/images/alpha-version-of-dashboard-sneak-peak-11.png"/>
+
+Keep in mind this is just our alpha version and we will be making many changes before our final launch in 2015. Our main focus will initially be on our API and then eventually the dashboard will follow.
