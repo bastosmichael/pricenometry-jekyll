@@ -20,7 +20,7 @@ Our up and coming Ecommerce Dashboard will be a fully automated and accurate pri
 We provide the valuable real time pricing data you need from the web. We get it to you daily in a form you can use.
 
 #### Structured Data Feeds
-We get you a feed of <a href="http://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a> and <a href="http://en.wikipedia.org/wiki/XML" target="_blank">XML</a> data you can access via our <a href="http://developers.pricels.com" target="_blank">API</a>, our Dashboard will introduce <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV< and <a href="http://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">Excel</a> exports.
+We get you a feed of <a href="http://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a> and <a href="http://en.wikipedia.org/wiki/XML" target="_blank">XML</a> data you can access via our <a href="http://developers.pricels.com" target="_blank">API</a>, our Dashboard will introduce <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV</a> and <a href="http://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">Excel</a> exports.
 
 #### Data Science Insights
 We also teach you to analyze the data you are given in a clean and intuitve way.
