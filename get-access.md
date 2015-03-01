@@ -13,9 +13,9 @@ We are currently accepting requests for limited access to our API, if you are in
 <input type="text" name="first_name" placeholder="Last Name *">
 <input type="email" name="email" placeholder="Your Email *">
 <input type="text" name="phone" placeholder="Phone Number (optional)">
-<textarea name="field3" placeholder="Why are you interested in Pricels?"></textarea>
+<textarea name="interest" placeholder="Why are you interested in Pricels?"></textarea>
 <label for="job">What would you like?</label>
-<select id="job" name="field4">
+<select id="job" name="type_of_access">
 <optgroup label="Get API Access">
   <option value="free_api_access">Free API Access</option>
   <option value="premium_api_access">Premium API Access</option>
@@ -33,7 +33,7 @@ We are currently accepting requests for limited access to our API, if you are in
 </fieldset>
 <fieldset>
 <legend><span class="number">2</span> Additional Info</legend>
-<textarea name="field3" placeholder="About Your Company"></textarea>
+<textarea name="additional" placeholder="About Your Company"></textarea>
 </fieldset>
 <input type="submit" value="Apply" />
 </form>
