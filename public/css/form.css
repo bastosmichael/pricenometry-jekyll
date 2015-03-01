@@ -86,7 +86,7 @@
     padding: 19px 39px 18px 39px;
     color: #FFF;
     margin: 0 auto;
-    background: #A8070F;
+    background: #73050A;
     font-size: 18px;
     text-align: center;
     font-style: normal;
@@ -98,5 +98,5 @@
 .form-style-5 input[type="submit"]:hover,
 .form-style-5 input[type="button"]:hover
 {
-    background: #109177;
+    background: #660207;
 }
