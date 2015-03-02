@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Pricels.com
 tagline:          'Our Data is Pricels'
-description:      '(pronounced Price-Less) Follow. Analyze. Report. We track anything on the internet with a price tag. Easy to Use. Data updated daily. Free Trial Available. Follow us on Twitter <a href="https://twitter.com/PricelsCom" target="_blank">@PricelsCom</a>.'
+description:      '(pronounced Price-Less) Follow. Analyze. Report. We track anything on the internet with a price tag. Easy to Use. Data updated daily. Free Trial Available. Follow us on Twitter <a href="https://twitter.com/PricelsCom" target="_blank">@PricelsCom</a> or <a href="https://www.facebook.com/PricelsCom" target="_blank">Facebook</a>.'
 url:              http://about.pricels.com
 baseurl:          /
 
