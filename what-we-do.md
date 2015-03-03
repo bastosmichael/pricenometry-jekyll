@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What We Do?
+title: What We Do
 ---
 
 Pricels.com (pronounced Price-Less) is turning the world of smart price data tracking on it’s head.
