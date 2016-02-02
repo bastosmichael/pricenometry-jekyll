@@ -46,4 +46,4 @@ Most of this industry works with Excel or older more arcane methods of data pars
 
 It’s interesting to see that the number of products a product or research analyst may need to follow or keep track of is actually relatively small compared to the amount of data you would need to pull in order to pull this off, that’s where our secret sauce comes in.
 
-On the same day this survey was sent, we also received a total of 6 email addresses asking to sign up for the service as soon as it’s available, this was way more real and available customers than we had anticipated and shows us the hunger for this even more. We hope to tell you more about our API coming in 2014 and Dashboard service as we slowly roll it out in 2015, for now we leave you with our data which we consider Pricels (Price-Less).
+On the same day this survey was sent, we also received a total of 6 email addresses asking to sign up for the service as soon as it’s available, this was way more real and available customers than we had anticipated and shows us the hunger for this even more. We hope to tell you more about our API coming in 2014 and Dashboard service as we slowly roll it out in 2015.

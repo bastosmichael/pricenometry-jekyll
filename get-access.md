@@ -13,14 +13,14 @@ We are currently accepting requests for limited access to our API, if you are in
 <input type="text" name="first_name" placeholder="Last Name *">
 <input type="email" name="email" placeholder="Your Email *">
 <input type="text" name="phone" placeholder="Phone Number (optional)">
-<textarea name="interest" placeholder="Why are you interested in Pricels?"></textarea>
+<textarea name="interest" placeholder="Why are you interested in our Data?"></textarea>
 <label for="job">What would you like?</label>
 <select id="job" name="type_of_access">
 <optgroup label="Get API Access">
   <option value="free_api_access">Free API Access</option>
   <option value="premium_api_access">Premium API Access</option>
-  <option value="download_data">Download Pricels Data</option>
-  <option value="update_data">Update Pricels Data</option>
+  <option value="download_data">Download Data</option>
+  <option value="update_data">Update Data</option>
 </optgroup>
 <optgroup label="Get Other Access">
   <option value="football">Press Inquiry</option>

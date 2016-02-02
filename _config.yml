@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Pricels.com
-tagline:          'Our Data is Pricels'
-description:      '(pronounced Price-Less) Follow. Analyze. Report. We track anything on the internet with a price tag. Easy to Use. Data updated daily. Free Trial Available. Follow us on Twitter <a href="https://twitter.com/PricelsCom" target="_blank">@PricelsCom</a> or <a href="https://www.facebook.com/PricelsCom" target="_blank">Facebook</a>.'
-url:              http://about.pricels.com
+title:            Pricenometry
+tagline:          'Follow. Analyze. Report.'
+description:      'Track anything on the internet with a price tag. Easy to Use. Data updated daily. Free Trial Available. Follow us on Twitter <a href="https://twitter.com/pricenometry" target="_blank">@Pricenometry</a> or <a href="https://www.facebook.com/Pricenometry" target="_blank">Facebook</a>.'
+url:              http://about.pricenometry.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          0.1
 
 github:
-  repo:           https://github.com/pricels
+  repo:           https://github.com/pricenometry
