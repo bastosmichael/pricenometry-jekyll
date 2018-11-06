@@ -1,10 +1,11 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
+# Plugins
+plugins: [jekyll-paginate]
 
 # Setup
 title:            Pricenometry
